@@ -38,3 +38,6 @@ my_settings.py
 
 # Default helga channel logs
 .logs
+
+# ignore plugin development
+helga/plugins/helga-*
